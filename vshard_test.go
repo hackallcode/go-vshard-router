@@ -7,8 +7,8 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/require"
 
-	vshard_router "github.com/KaymeKaydex/go-vshard-router"
-	"github.com/KaymeKaydex/go-vshard-router/providers/static"
+	vshard_router "github.com/hackallcode/go-vshard-router"
+	"github.com/hackallcode/go-vshard-router/providers/static"
 )
 
 func TestNewRouter_EmptyReplicasets(t *testing.T) {

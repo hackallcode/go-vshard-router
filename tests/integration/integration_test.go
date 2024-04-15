@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	vshard_router "github.com/KaymeKaydex/go-vshard-router"
-	"github.com/KaymeKaydex/go-vshard-router/providers/static"
+	vshard_router "github.com/hackallcode/go-vshard-router"
+	"github.com/hackallcode/go-vshard-router/providers/static"
 
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"

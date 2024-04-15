@@ -9,7 +9,7 @@ import (
 	"github.com/google/uuid"
 	srcviper "github.com/spf13/viper"
 
-	vshardrouter "github.com/KaymeKaydex/go-vshard-router"
+	vshardrouter "github.com/hackallcode/go-vshard-router"
 )
 
 type Provider struct {
